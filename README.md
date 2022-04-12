@@ -5,6 +5,6 @@ only had problem with setting contractBalance in the withdraw function to reflec
 had to use lastToWithdraw, instead of amount 
 
 screens:
-![final](executionresults/6_transfer_10eth_to_account2_.png.png) 
+![final](executionresults/6_transfer_10eth_to_account2_.png) 
 
 ![first](executionresults/1_deploy.png)
